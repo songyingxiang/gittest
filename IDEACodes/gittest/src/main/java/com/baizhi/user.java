@@ -7,7 +7,7 @@ package com.baizhi;
  * @create: 2019-09-25 17:04
  **/
 public class user {
-
+//宋迎香真是个大傻子
 
     private String id;
     private String name;
